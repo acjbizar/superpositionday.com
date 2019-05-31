@@ -2,6 +2,8 @@
 <html class=myriad dir=ltr lang=en>
 <head>
     <meta charset=utf-8>
+    <link rel="dns-prefetch" href="//use.typekit.net">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
     <meta name=apple-mobile-web-app-capable content=yes>
     <meta name=apple-mobile-web-app-status-bar-style content=black-translucent>
     <meta name=apple-mobile-web-app-title content=Superposition>
