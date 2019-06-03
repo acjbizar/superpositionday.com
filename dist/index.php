@@ -80,15 +80,8 @@
 
         /* https://daneden.github.io/animate.css/ */
 
-
-        @media(max-width:48em)
-        {
-            body{font-size:75%}
-        }
-
-        @media(max-width:36em)
-        {
-            body{font-size:50%}
+        body {
+            font-size: calc(1vh + 1vw);
         }
 
     </style>
