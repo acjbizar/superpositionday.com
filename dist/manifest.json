@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "version": "20190801",
+    "name": "Superposition Day",
+    "default_locale": "en",
+    "description": "Today is ([in]ternational) Superposition Day, but also not (and everything in between, whatever that means). Science!",
+    "author": "Alexander Christiaan Jacob",
+    "theme_color": "#ff0000",
+    "homepage_url": "https://superpositionday.com/",
+    "start_url": "https://superpositionday.com/",
+    "icons": [
+        {
+            "src": "https://superpositionday.com/apple-touch-icon-precomposed.png"
+        }
+    ],
+    "display": "fullscreen"
+}

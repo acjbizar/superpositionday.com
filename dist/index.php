@@ -1,19 +1,19 @@
 <!DOCTYPE html>
-<html class=myriad dir=ltr lang=en>
+<html class="myriad" dir="ltr" lang="en">
 <head>
-    <meta charset=utf-8>
+    <meta charset="utf-8">
     <link rel="dns-prefetch" href="//use.typekit.net">
     <link rel="dns-prefetch" href="//www.google-analytics.com">
-    <meta name=apple-mobile-web-app-capable content=yes>
-    <meta name=apple-mobile-web-app-status-bar-style content=black-translucent>
-    <meta name=apple-mobile-web-app-title content=Superposition>
-    <meta name=application-name content=Superposition>
-    <meta name=description content="Today is ([in]ternational) Superposition Day, but also not (and everything in between, whatever that means). Science!">
-    <meta name="theme-color" content="#FF0000">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content=Superposition>
+    <meta name="application-name" content=Superposition>
+    <meta name="description" content="Today is ([in]ternational) Superposition Day, but also not (and everything in between, whatever that means). Science!">
+    <meta name="theme-color" content="#ff0000">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@superpositional">
     <meta name="twitter:creator" content="@ACJ">
-    <meta name=viewport content="initial-scale=1.0,shrink-to-fit=no,width=device-width">
+    <meta name="viewport" content="initial-scale=1.0,shrink-to-fit=no,width=device-width">
     <meta property="fb:admins" content="509248955">
     <meta property="og:description" content="Today is ([in]ternational) Superposition Day, but also not (and everything in between, whatever that means). Science!">
     <meta property="og:image" content="https://superpositionday.com/apple-touch-icon-precomposed.png">
@@ -24,9 +24,10 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://superpositionday.com/">
     <title>Superposition Day</title>
-    <link rel=apple-touch-icon-precomposed href=apple-touch-icon-precomposed.png>
-    <link rel=author href=https://alexanderchristiaanjacob.com/>
-    <link rel=canonical href=https://superpositionday.com/>
+    <link rel="apple-touch-icon-precomposed" href="https://superpositionday.com/apple-touch-icon-precomposed.png">
+    <link rel="author" href="https://alexanderchristiaanjacob.com/" title="Alexander Christiaan Jacob">
+    <link rel="canonical" href="https://superpositionday.com/">
+    <link rel="help" href="https://github.com/acjbizar/superpositionday.com">
     <style>
         *{border:0;box-sizing:border-box;font-family:inherit;font-size:1em;font-weight:inherit;margin:0;outline:0;padding:0;position:relative;text-decoration:none}
 
