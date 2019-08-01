@@ -28,6 +28,7 @@
     <link rel="author" href="https://alexanderchristiaanjacob.com/" title="Alexander Christiaan Jacob">
     <link rel="canonical" href="https://superpositionday.com/">
     <link rel="help" href="https://github.com/acjbizar/superpositionday.com">
+    <link rel="manifest" href="https://superpositionday.com/manifest.json">
     <style>
         *{border:0;box-sizing:border-box;font-family:inherit;font-size:1em;font-weight:inherit;margin:0;outline:0;padding:0;position:relative;text-decoration:none}
 
@@ -99,23 +100,18 @@
 
     </script>
 </head>
-<body id=top>
-<main id=content>
-
+<body id="top">
+<main id="content">
     <div>
         <div class="memoriam q">Is Today, <time class=myriad datetime=<?php echo date('Y-m-d'); ?>><?php echo strftime('%B ') , idate('d') , date(', Y'); ?></time></div>
         <h1 class="myriad n">Superposition Day<span class="qm wobble">?</span></h1>
     </div>
-
     <div class="memoriam yes">Yes!</div>
     <div class="but">but also <span class="memoriam no">no</span></div>
     <div class="and">and <span class="memoriam">—everything—</span> in between</div>
     <div class="whatever">whatever that means&hellip;</div>
-
     <div class="science"><em>Science!</em></div>
-
-    <div class=qed><a href=https://deidee.com/ lang=nl>■</a></div>
-
+    <div class="qed"><a href="https://deidee.com/" lang="nl">■</a></div>
 </main>
 </body>
 </html>
