@@ -32,14 +32,14 @@
     <style>
         *{border:0;box-sizing:border-box;font-family:inherit;font-size:1em;font-weight:inherit;margin:0;outline:0;padding:0;position:relative;text-decoration:none}
 
-        body{height:100%}
+        body{color:#2269ca;height:100%}
         html{font:normal 100%/1.5 sans-serif,serif;height:100%;text-rendering:optimizeLegibility}
         main{box-sizing:border-box;display:block;height:100%;margin:0 auto;padding:3em 0 3em 1.5em;max-width:48em}
 
         .and{font-size:1.5em;left:19em;position:absolute;top:11em}
         .but{font-size:3em;left:9.5em;position:absolute;top:4em}
         .memoriam{color:red;text-shadow:none;text-shadow:0 0 .125em rgba(255,0,0,.75);text-transform:none}
-        .myriad{color:rgb(34, 105, 202);text-shadow:.03125em .03125em .03125em rgba(34, 105, 202,.5);text-transform:uppercase}
+        .myriad{text-shadow:.03125em .03125em .03125em rgba(34, 105, 202,.5);text-transform:uppercase}
         .n{font-size:4.5em;line-height:1;text-indent:1.3333em}
         .no{font-size:1.5em;line-height:0}
         .q{font-size:2em;line-height:1.5}
